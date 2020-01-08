@@ -10,7 +10,7 @@ https://confluence.hl7.org/display/SEC/Cross+Paradigm+CUI%2C+Part+2%2C+and+7332+
 https://confluence.hl7.org/display/SEC/Cross+Paradigm+CUI+32+CFR+Part+2002%2C+42+CFR+Part+2%2C+and+Title+38+Section+7332+Security+Labeling+IG+PSS
 
 # Continuous build 
-When built the output can be viewed here http://build.fhir.org/ig/JohnMoehrke/security-gov-regs/branches/master/index.html 
+When built the output can be viewed here http://build.fhir.org/ig/HL7/us-security-label-regs/branches/master/index.html
 
 # TODO
 1. I have profiled only Bundle. I did not find a way to profile ANY DomainResource. However I don't think that is not needed
