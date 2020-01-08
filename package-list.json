@@ -1,0 +1,20 @@
+{
+ "package-id" : "fhir.us.security-gov-regs",
+ "title" : "Security Government Regulations tagged", 
+ "canonical" : "http://hl7.org/fhir/us/security-gov-regs", 
+ "introduction" : "Subset of security label vocabulary to enable computable and interoperable security labeling for the use-cases of CUI, 42 CFR Part 2, and Title 38 Section 7332. ",
+ "list" : [{
+  "version" : "current",
+  "desc" : "Continuous Integration Build (latest in version control)",
+  "path" : "http://hl7.org/fhir/ig/HL7/security-gov-regs",
+  "status" : "ci-build",
+  "current" : true
+ },{
+  "version" : "0.1.0",  
+  "date" : "2099-01-01", 
+  "desc" : "Initial STU ballot (Mmm yyyy Ballot)",   
+  "path" : "http://hl7.org/fhir/yyyyMmm/myig.html",   
+  "status" : "ballot",   
+  "sequence" : "DSTU 1"
+ }]
+}

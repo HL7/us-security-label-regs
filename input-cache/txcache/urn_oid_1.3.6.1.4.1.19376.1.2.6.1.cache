@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "urn:oid:1.3.6.1.4.1.19376.1.2.6.1",
+  "code" : "REPORTS"
+}, "valueSet" :null, "lang":"null", "useServer":"true", "useClient":"true", "guessSystem":"false"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code system \"urn:oid:1.3.6.1.4.1.19376.1.2.6.1\" is not known (encountered paired with code = \"REPORTS\"); The code provided (urn:oid:1.3.6.1.4.1.19376.1.2.6.1#REPORTS) is not  valid in the value set All codes known to the system"
+}
+-------------------------------------------------------------------------------------

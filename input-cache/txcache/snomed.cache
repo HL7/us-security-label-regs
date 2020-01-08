@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "http://snomed.info/sct",
+  "code" : "225728007",
+  "display" : "Accident and Emergency department"
+}, "valueSet" :null, "lang":"null", "useServer":"true", "useClient":"true", "guessSystem":"false"}####
+v: {
+  "display" : "Accident and Emergency department",
+  "severity" : null,
+  "error" : ""
+}
+-------------------------------------------------------------------------------------
