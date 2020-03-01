@@ -3,6 +3,7 @@
 <ImplementationGuide xmlns="http://hl7.org/fhir" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hl7.org/fhir ../input-cache/schemas-r5/fhir-single.xsd">
   <id value="fhir.us.security-gov-regs"/>
   <url value="http://hl7.org/fhir/us/security-gov-regs/ImplementationGuide/fhir.us.security-gov-regs"/>
+  <version value="0.1.0" />
   <name value="Security-Gov-Regs"/>
   <title value="Security for US Government Regulations"/>
   <status value="draft"/>
