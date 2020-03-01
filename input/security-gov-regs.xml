@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Start by finding all references to "myig" and updating to appropriate text for your IG, including changing realm -->
 <ImplementationGuide xmlns="http://hl7.org/fhir" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hl7.org/fhir ../input-cache/schemas-r5/fhir-single.xsd">
-  <id value="fhir.us.security-gov-regs"/>
-  <url value="http://hl7.org/fhir/us/security-gov-regs/ImplementationGuide/fhir.us.security-gov-regs"/>
+  <id value="hl7.fhir.us.security-gov-regs"/>
+  <url value="http://hl7.org/fhir/us/security-gov-regs/ImplementationGuide/hl7.fhir.us.security-gov-regs"/>
   <version value="0.1.0" />
   <name value="Security-Gov-Regs"/>
   <title value="Security for US Government Regulations"/>
@@ -25,7 +25,7 @@
       <code value="840"/>
     </coding>
   </jurisdiction>
-  <packageId value="fhir.us.security-gov-regs"/>
+  <packageId value="hl7.fhir.us.security-gov-regs"/>
   <!-- This is whatever FHIR version the IG artifacts are targeting (not the version of this file, which should always be 'current release') -->
   <fhirVersion value="4.0.1"/>
   <definition>
