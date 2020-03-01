@@ -31,17 +31,6 @@
   <definition>
     <!-- You don't need to define any groupings.  The IGPublisher will define them for you.  You only need to do so if your IG is 'special' and it's
       inappropriate to use the defaults.  Feel free to provide feedback about the defaults... -->
-    <!-- copyright year is a mandatory parameter -->
-    <parameter>
-      <code value="copyrightyear"/>
-      <value value="2020+"/>
-    </parameter>
-  <!-- releaselabel should be the ballot status for HL7-published IGs. -->
-    <parameter>
-      <code value="releaselabel"/>
-      <value value="CI Build"/>
-    </parameter>
-    
     <resource>
       <reference>
         <reference value="StructureDefinition/security-gov-regs-bundle"/>
@@ -117,5 +106,16 @@
         <generation value="html"/>
       </page>
     </page>
+
+    <!-- copyright year is a mandatory parameter -->
+    <parameter>
+      <code value="copyrightyear"/>
+      <value value="2020+"/>
+    </parameter>
+    <!-- releaselabel should be the ballot status for HL7-published IGs. -->
+    <parameter>
+      <code value="releaselabel"/>
+      <value value="CI Build"/>
+    </parameter>
   </definition>
 </ImplementationGuide>
