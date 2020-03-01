@@ -9,6 +9,16 @@
   <status value="draft"/>
   <experimental value="false"/>
   <publisher value="HL7 International - Security Work Group"/>
+  <!-- copyright year is a mandatory parameter -->
+    <parameter>
+      <code value="copyrightyear"/>
+      <value value="2020+"/>
+    </parameter>
+  <!-- releaselabel should be the ballot status for HL7-published IGs. -->
+    <parameter>
+      <code value="releaselabel"/>
+      <value value="CI Build"/>
+    </parameter>
   <contact>
     <telecom>
       <!-- Or whatever URL and/or email address(es) are appropriate -->
